@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ktTicTacToe-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="ktTicTacToe-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="ktTicTacToe.main" />
+    </root>
+  </artifact>
+</component>
